@@ -1,0 +1,194 @@
+{
+    "info" : {
+        "semester": "1ST",
+        "department": "CST",
+        "shift": "MORNING",
+        "group": "(B-1)",
+        "finishTime": "01:20PM"
+    },
+    "subjects": {
+        "25711": "BANGLA-1",
+        "25712": "ENGLISH-1",
+        "25911": "MATHEMATICS-1",
+        "25912": "PHYSICS-1",
+        "26711": "BASIC ELECTRICITY",
+        "21011": "ENGINEERING DRAWING",
+        "28511": "COMPUTER OFFICE APPLICATION"
+    },
+    "class": [
+        {
+            "sunday": {
+                "1st": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"08:40-10:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25912",
+                    "room": "301"
+                },
+                "2nd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"10:40-11:20",
+                    "morning": true,
+                    "day": false,
+                    "subject": "26711",
+                    "room": "239"
+                },
+                "3rd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"11:20-12:00",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25711",
+                    "room": "239"
+                },
+                "4th": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"12:00-12:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25912",
+                    "room": "239"
+                }
+            },
+            "monday": {
+                "1st": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"08:00-08:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25911",
+                    "room": "335"
+                },
+                "2nd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"08:40-10:00",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25912",
+                    "room": "335"
+                },
+                "3rd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"10:00-10:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "26711",
+                    "room": "335"
+                },
+                "4th": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"10:40-12:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "28511",
+                    "room": "CMT-LAB-1"
+                }
+            },
+            "tuesday": {
+                "1st": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"08:00-10:00",
+                    "morning": true,
+                    "day": false,
+                    "subject": "28511",
+                    "room": "CMT-LAB-5"
+                },
+                "2nd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"10:00-10:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25911",
+                    "room": "DL-2"
+                },
+                "3rd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"10:40-12:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "21011",
+                    "room": "DL-2"
+                }
+            },
+            "wednesday": {
+                "1st": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"08:00-08:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25712",
+                    "room": "239"
+                },
+                "2nd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"08:40-09:20",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25711",
+                    "room": "239"
+                },
+                "3rd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"09:20-10:00",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25911",
+                    "room": "432"
+                },
+                "4th": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"10:00-10:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "26711",
+                    "room": "DL-3"
+                },
+                "5th": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"10:40-12:40",
+                    "morning": true,
+                    "day": false,
+                    "subject": "21011",
+                    "room": "DL-3"
+                }
+            },
+            "thursday": {
+                "1st": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"08:00-10:00",
+                    "morning": true,
+                    "day": false,
+                    "subject": "26711",
+                    "room": "WIRE LAB"
+                },
+                "2nd": {
+                    "holiday": false,
+                    "class": true,
+                    "time":"10:00-12:00",
+                    "morning": true,
+                    "day": false,
+                    "subject": "25911",
+                    "room": "336"
+                }
+            }
+        }
+    ]
+}
